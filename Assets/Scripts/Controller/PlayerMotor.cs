@@ -40,18 +40,18 @@ public class PlayerMotor : MonoBehaviour
     private const float GroundAccelerationCoeff = 10.0f;
 
     // How fast the controller accelerates while it's not grounded
-    private const float AirAccelCoeff = 1f;
+    private const float AirAccelCoeff = 0f;
 
     // Air deceleration occurs when the player gives an input that's not aligned with the current velocity
-    private const float AirDecelCoeff = 1.5f;
+    private const float AirDecelCoeff = 0f;
 
     // Along a dimension, we can't go faster than this
     // This dimension is relative to the controller, not global
     // Meaning that "max speend along X" means "max speed along 'right side' of the controller"
-    private const float MaxSpeedAlongOneDimension = 8f;
+    private const float MaxSpeedAlongOneDimension = 6f;
 
     // When pressing to shift
-    private const float WalkSpeed = 4f;
+    private const float WalkSpeed = 6f;
 
     // How fast the controller decelerates on the grounded
     private const float Friction = 15;
@@ -60,16 +60,16 @@ public class PlayerMotor : MonoBehaviour
     private const float FrictionSpeedThreshold = 0.5f;
 
     // Push force given when jumping
-    private const float JumpStrength = 8f;
+    private const float JumpStrength = 0f;
 
     // yeah...
     private const float GravityAmount = 24f;
 
     // How precise the controller can change direction while not grounded 
-    private const float AirControlPrecision = 16f;
+    private const float AirControlPrecision = 0f;
 
     // When moving only forward, increase air control dramatically
-    private const float AirControlAdditionForward = 16f;
+    private const float AirControlAdditionForward = 0f;
 
     private const float NoClipSpeed = 50f;
     #endregion
@@ -173,15 +173,6 @@ public class PlayerMotor : MonoBehaviour
         #endregion
 
         IsWalking = Input.GetKey(KeyCode.LeftShift);
-
-        if (Input.GetKeyDown(KeyCode.Space) && !_isGonnaJump)
-        {
-            _isGonnaJump = true;
-        }
-        else if (Input.GetKeyUp(KeyCode.Space))
-        {
-            _isGonnaJump = false;
-        }
 
         // MOVEMENT
         var wishDir = _camTransform.TransformDirectionHorizontal(moveInput); // We want to go in this direction

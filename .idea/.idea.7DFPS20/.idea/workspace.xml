@@ -1,11 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f733005-5588-4ae9-b40e-a823f795d1d9" name="Default Changelist" comment="" />
+    <list default="true" id="7f733005-5588-4ae9-b40e-a823f795d1d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.7DFPS20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7DFPS20.sln" beforeDir="false" afterPath="$PROJECT_DIR$/7DFPS20.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Animation Controllers/Sitting Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Animation Controllers/Sitting Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Typing.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Typing.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/GridScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3rd Party Assets/PolygonalMind/LowPolyOffice/Scenes/GridScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_bottomleft.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_bottomleft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_bottomright.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_bottomright.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_topleft.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_topleft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_topright.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Textures/crosshair_topright.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AimController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AimController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoroutineStarter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoroutineStarter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Curve.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Curve.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Drawing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Drawing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gravity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gravity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMotor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMotor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Sfx.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Sfx.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ui.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ui.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Util.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Util.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/SabreCSG/Resources/Materials/Default_Map.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/SabreCSG/Resources/Materials/Default_Map.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HolderFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sfx.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AimController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HolderFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1lNlKOSWNm36Fxlc4QWw5v5jEpV" />
   <component name="ProjectViewState">
@@ -48,7 +120,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607445367580</updated>
-      <workItem from="1607445369874" duration="315000" />
+      <workItem from="1607445369874" duration="1902000" />
+      <workItem from="1607549254578" duration="7542000" />
+      <workItem from="1607647074509" duration="596000" />
     </task>
     <servers />
   </component>
@@ -57,7 +131,33 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1607551383441">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400/2560.170.1920.1040@0.0.2560.1400" timestamp="1607551383441" />
+    <state x="1030" y="410" key="RollbackChangesDialog" timestamp="1607549263593">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1030" y="410" key="RollbackChangesDialog/0.0.2560.1400/2560.170.1920.1040@0.0.2560.1400" timestamp="1607549263593" />
+    <state x="923" y="433" width="714" height="534" key="find.popup" timestamp="1607549687128">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="923" y="433" width="714" height="534" key="find.popup/0.0.2560.1400/2560.170.1920.1040@0.0.2560.1400" timestamp="1607549687128" />
   </component>
 </project>
